@@ -1,14 +1,4 @@
-<h1 align="center">ForumHub API</h1>
-<br>
 
-![ONE](https://github.com/J4niks/ChallangeForumHubAlura/assets/132161011/6bbc7ff3-413f-46ef-98d6-b078eb36c7b2)
-
-## Descrição
-Este projeto implementa uma API REST criada para o challange Forum HUB. Ele oferece operações para criar, listar, atualizar e excluir cursos, tópicos, respostas e usuários, além de funcionalidades de autenticação e autorização com tokens JWT.
-
-
-<br>
-<br>
 
 # Funcionalidades Principais
 
